@@ -8,10 +8,10 @@ Skills: NODE JS / REACT / JS / PYTHON / DJANDO and DJANGO-REST-FRAMEWORK / HTML 
 - 🌱 I’m currently learning Django framework and Django-Rest-API
 - 💬 Ask me about NodeJS, and Django
 - 📫 How to reach me:
-    - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/cyimanafaisal)  
-    - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/cyimana-faisal-216680159/)  
-    - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/cyimana_faisal)  
-    website: coming soon
+     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/cyimanafaisal)  
+     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/cyimana-faisal-216680159/)  
+     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/cyimana_faisal)  
+    
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Many owners of large tech companies loved video games as kids.
 
