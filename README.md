@@ -3,7 +3,7 @@
 # I am CYIMANA Faisal from Rwanda
 I do software development. I really enjoy learning languages and frameworks like Django, NodeJS, and ReactJS. I also enjoy reviewing my colleague's Pull Request because it helps me to learn from them.
 
-Skills: NODE JS / REACT / JS / PYTHON / DJANDO and DJANGO-REST-FRAMEWORK / HTML / CSS
+Skills: NODE JS / REACT / JS / PYTHON / DJANGO and DJANGO-REST-FRAMEWORK / HTML / CSS
 
 - 🌱 I’m currently learning Django framework and Django-Rest-API
 - 💬 Ask me about NodeJS, and Django
